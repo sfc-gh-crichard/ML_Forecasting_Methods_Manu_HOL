@@ -14,6 +14,9 @@ This hands-on lab demonstrates **three forecasting methods** using realistic HVA
 2. **XGBoost** - Custom ML with 25+ features (weather, economic data) (~90 min)
 3. **Snowpark ML** - Enterprise ML with Model Registry (~60 min) ⭐ **RECOMMENDED**
 
+<img width="2096" height="776" alt="image" src="https://github.com/user-attachments/assets/08a4b07c-92fc-4043-9d69-9ffd9445ba6c" />
+
+
 ## 📊 Lab Data
 
 Synthetic weekly data with realistic patterns including:
