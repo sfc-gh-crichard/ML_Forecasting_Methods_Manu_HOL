@@ -48,7 +48,7 @@ Synthetic weekly data with realistic patterns including:
 | `setup.sql` | Snowflake environment setup |
 | `1_cortex_ml_forecasting.ipynb` | Method 1: Cortex ML (SQL-based) |
 | `2_xgboost_time_series.ipynb` | Method 2: XGBoost (custom ML) |
-| `3_snowpark_ml_forecasting.ipynb` | Method 3: Snowpark ML ⭐ |
+| `3_snowpark_ml_forecasting.ipynb` | Method 3: Snowpark ML |
 | `4_comparison_all_methods.ipynb` | Compare all methods |
 | `forecast_comparison_dashboard.py` | Interactive Streamlit dashboard |
 | `thisisclayco_hvac_demand_data.csv` | Sample data (generated) |
@@ -57,7 +57,7 @@ Synthetic weekly data with realistic patterns including:
 
 - **Cortex ML**: Quick insights, SQL-only teams, standard patterns
 - **XGBoost**: Maximum accuracy, complex features, experienced data scientists
-- **Snowpark ML**: Production ML, governance, enterprise scale ⭐
+- **Snowpark ML**: Production ML, governance, enterprise scale 
 
 ## 💰 Cost
 
